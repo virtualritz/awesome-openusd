@@ -58,6 +58,7 @@ Curated by [@maticodes](https://twitter.com/maticodes)
 * [fspy-USD](https://github.com/Vochsel/fspy-USD) - Converts fSpy camera matching file to USD.
 
 ### Hydra
+* [3Delight|NSI](https://gitlab.com/3Delight/HydraNSI) – Hydra delegate for 3Delight or any renderer implementing the NSI API.
 * [Arnold USD](https://github.com/Autodesk/arnold-usd) - Arnold Hydra render delegate and schemas.
 * [Blackbird (Blender Cycles)](https://github.com/tangent-opensource/hdBlackbird) - Blender Cycles Hydra render delegate from Tangent Animation.
 * [LuxCoreRender](https://github.com/jbgann/LuxCoreRenderUSD) - LuxCoreRender Hydra render delegate.
@@ -72,6 +73,7 @@ Curated by [@maticodes](https://twitter.com/maticodes)
 * [Notepad++ Syntax Highlighter](https://github.com/AndrewHazelden/PIXAR-USD-Syntax-Highlighter) - USDA file syntax highlighting in Notepad++.
 
 ### FileFormat Plugins
+* [Multiverse](https://j-cube.jp/solutions/multiverse/) – the most powerful Maya plug-in for working with USD data.
 * [usdat](https://github.com/dreamworksanimation/dwa_usd_plugins/tree/master/pxr/usd/plugin/usdat) - A FileFormat plugin from DreamWorks Animation that enables working with templating in USD files.
 
 ## Sample Assets
